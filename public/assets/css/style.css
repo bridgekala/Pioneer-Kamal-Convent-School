@@ -18,9 +18,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Rufina:wght@400;700&display=swap");
 :root {
     --rt-theme: #09a24f;
-    --rt-primary: #890c25;
-    --rt-primary-1: #b71a34;
-    --rt-primary-2: #890c25;
+    --rt-primary: #4973a7;
+    --rt-primary-1: #4973a7;
+    --rt-primary-2: #4973a7;
     --rt-secondary: #110c2d;
     --rt-footer: #181818;
     --rt-body: #737477;
@@ -29,7 +29,7 @@
     --rt-rating: var(--rt-primary);
     --rt-border: #d9d9d9;
     --rt-line: #eee;
-    --rt-hover: #af0e2e;
+    --rt-hover: #4973a7;
     --copyright-border: #242424;
     --rt-radius: 3px;
     --rt-radius-none: none;
@@ -37,14 +37,14 @@
     --footer-bg: #181818;
     --light-white: #f6f6f6;
     --color-success: #3eb75e;
-    --color-danger: #ff0003;
+    --color-danger: #4973a7;
     --color-warning: #ff8f3c;
     --color-info: #1ba2db;
     --color-facebook: #3b5997;
     --color-twitter: #1ba1f2;
     --color-youtube: #ed4141;
     --color-linkedin: #0077b5;
-    --color-pinterest: #e60022;
+    --color-pinterest: #4973a7;
     --color-instagram: #c231a1;
     --color-vimeo: #00adef;
     --color-twitch: #6441a3;
@@ -24510,7 +24510,7 @@ body.index-sc h6 {
     position: absolute;
     height: 100%;
     width: 1px;
-    background: #af2944;
+    background: white;
     content: "";
     top: 0;
     right: -70px;
