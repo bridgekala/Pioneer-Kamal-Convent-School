@@ -17,7 +17,7 @@
                         <div class="col-lg-8">
                             <div class="rts-ap-section">
                                 <h3 class="rts-section-title mb--30">Admission Form</h3>
-                                <p style="font-size: 20px; margin-bottom:50px; color:#890C25;">Admission forms are available
+                                <p style="font-size: 20px; margin-bottom:50px; color:#4973a7;">Admission forms are available
                                     offline at the school reception for
                                     a fee of ₹25/-.
                                     Please bring the required documents for verification.</p>
