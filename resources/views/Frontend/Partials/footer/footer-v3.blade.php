@@ -67,37 +67,6 @@
                     </div>
                 </div>
             </div>
-            {{-- <div class="col-lg-4 col-md-6 col-sm-8">
-                <div class="rts-footer-widget ml--30">
-                    <h6 class="rt-semi">Recent Post</h6>
-                    <div class="rts-post-widget">
-                        <ul class="list-unstyled">
-                            <li class="single-post">
-                                <a href="{{ route('blog-details') }}" class="blog-thumb">
-                                    <img src="{{ asset('assets/images/blog/w-1.jpg') }}" alt="latest post">
-                                </a>
-                                <div class="post-content">
-                                    <span class="rt-date">October 29, 2023</span>
-                                    <a href="{{ route('blog-details') }}">
-                                        Avoid These 4 Common When Managing Remote Teams
-                                    </a>
-                                </div>
-                            </li>
-                            <li class="single-post">
-                                <a href="{{ route('blog-details') }}" class="blog-thumb">
-                                    <img src="{{ asset('assets/images/blog/small-thumb-1.jpg') }}" alt="latest post">
-                                </a>
-                                <div class="post-content">
-                                    <span class="rt-date">October 29, 2023</span>
-                                    <a href="{{ route('blog-details') }}">
-                                        Avoid These 4 Common When Managing Remote Teams
-                                    </a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div> --}}
         </div>
     </div>
 </footer>
@@ -105,7 +74,7 @@
     <div class="container">
         <div class="row">
             <div class="rt-center">
-                <p class="--p-xs">Copyright &copy; {{ date('Y') }} Pioneer Convent Designed & Developed by <a
+                <p class="--p-xs">Copyright &copy; {{ date('Y') }} Pioneer Kamal Convent Designed & Developed by <a
                         target="_blank" href="https://www.bridgekala.com/">BridgeKala</a></p>
             </div>
         </div>

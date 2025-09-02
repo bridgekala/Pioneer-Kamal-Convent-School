@@ -13,7 +13,7 @@
             </div>
             <div class="col-lg-8">
                 <div class="rts-video-section-text rt-center mx-3">
-                    <p>Step into the vibrant world of Pioneer Convent Sr. Sec. School—a 2-acre lush green campus
+                    <p>Step into the vibrant world of Pioneer Kamal Convent School—a 2-acre lush green campus
                         designed for academic excellence, creativity, and holistic growth. From state-of-the-art science
                         and computer labs to open sports grounds and interactive learning zones, every corner of our
                         school nurtures knowledge and character. Whether you’re exploring classrooms, activity hubs, or

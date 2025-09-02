@@ -17,13 +17,13 @@
                 </div>
                 <div  class="col-lg-6">
                     <h4>About Our School</h4>
-                    <p class="desc">Pioneer Convent Sr. Sec. School, located in Lok Nayak Puram, Bakkarwala, New Delhi, is
+                    <p class="desc"> Pioneer Kamal Convent School, located in Lok Nayak Puram, Bakkarwala, New Delhi, is
                         a distinguished institution committed to academic excellence and holistic development. Nestled
                         within a lush green 2-acre campus, the school provides a nurturing environment enriched with
                         state-of-the-art infrastructure, comprehensive sports facilities, and a wide array of co-curricular
                         activities.
 
-                        Affiliated with CBSE up to Class XII and offering all academic streams, Pioneer Convent believes in
+                        Affiliated with CBSE up to Class XII and offering all academic streams,  Pioneer Kamal believes in
                         developing strong mind-body-soul coordination in students through a thoughtfully designed
                         curriculum. From robotics and language labs to music, arts, and sports, every element of school life
                         fosters creativity, critical thinking, and personal growth. With a dedicated faculty and a
@@ -32,7 +32,7 @@
                     </p>
                 </div>
                 <h4>Recognition and Affiliation</h4>
-                <p>Pioneer Convent School is affiliated to the Central Board of Secondary Education (CBSE), Delhi, with
+                <p> Pioneer Kamal School is affiliated to the Central Board of Secondary Education (CBSE), Delhi, with
                     Affiliation Number 2730606 and School Code 85345. The school is recognized under the RTE Act, 2009, and
                     adheres to all mandatory norms, including possession of valid Fire Safety and Building Safety
                     Certificates, DEO Certification for Affiliation, and Water, Health, and Sanitation Certificates. Our

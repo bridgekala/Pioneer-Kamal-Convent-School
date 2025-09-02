@@ -28,7 +28,7 @@
                                                         alt="cap">
                                                 </div>
                                                 <h2 class="banner__slides--content--title">
-                                                    Pioneer Convent Sr. Sec. School
+                                                    Pioneer Kamal Convent School
                                                 </h2>
                                                 <p class="banner__slides--content--description">
                                                     Where Excellence Meets Values
@@ -96,7 +96,7 @@
                     <div class="rts__section--wrapper v__2">
                         <h2 class="rts__section--title text-capitalize">Why Choose Pioneer</h2>
                         <p class="rts__section--description">Step into a world of knowledge, innovation, and values-driven
-                            education. At Pioneer Convent Sr. Sec. School, we go beyond traditional learning to nurture
+                            education. At Pioneer Kamal Convent School, we go beyond traditional learning to nurture
                             curious minds, confident leaders, and compassionate citizens. With our Multiple
                             Intelligence-Based Curriculum, a CBSE-affiliated program up to Class 12, and a strong emphasis
                             on sports, arts, and co-curricular excellence, we ensure every child thrives academically,
@@ -188,8 +188,8 @@
                 </div>
                 <div class="col-lg-6 col-xl-7 col-md-10 col-sm-11">
                     <div class="rts-right-section rt-relative">
-                        <p class="rt-white mb--40">Welcome to Pioneer Convent Sr. Sec. School
-                            Pioneer Convent is among Delhi’s premier educational institutions, where we blend strong Indian
+                        <p class="rt-white mb--40">Welcome to Pioneer Kamal Convent School
+                             Pioneer Kamal is among Delhi’s premier educational institutions, where we blend strong Indian
                             values with global learning methodologies. Our mission is to prepare young minds to be
                             innovative, compassionate, and future-ready leaders.</p>
                         <img class="round" src="{{ asset('assets/images/feature/01.jpg') }}" alt="campus images">
@@ -218,7 +218,7 @@
             <div class="row justify-content-sm-center justify-content-md-start align-items-center g-5">
                 <div class="col-lg-4 col-md-6 col-sm-10">
                     <div class="rts__section--wrapper v__7">
-                        <h2 class="rts__section--title">Fee Structure at Pioneer Convent Sr. Sec. School</h2>
+                        <h2 class="rts__section--title">Fee Structure at Pioneer Kamal Convent School</h2>
                         <p class="rts__section--description">
                             At Pioneer Convent, we are committed to providing high-quality, value-based education at an
                             affordable cost. Our fee structure is designed to remain transparent and accessible, ensuring
@@ -288,7 +288,7 @@
                                 Thriving Beyond Classrooms – Life at Pioneer
                             </h2>
                             <p class="campus__right--text--description">
-                                Step into a world of learning, creativity, and discovery. Campus life at Pioneer Convent is
+                                Step into a world of learning, creativity, and discovery. Campus life at  Pioneer Kamal is
                                 more than just academics—it’s about nurturing talents, building friendships, and shaping
                                 character. From sports and cultural activities to clubs, workshops, and community events,
                                 every day is filled with opportunities to grow, explore, and excel.

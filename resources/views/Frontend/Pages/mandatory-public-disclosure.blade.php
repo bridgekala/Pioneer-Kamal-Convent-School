@@ -32,7 +32,7 @@
                                         <tr>
                                             <td>1.</td>
                                             <td>NAME OF THE SCHOOL</td>
-                                            <td>PIONEER CONVENT SCHOOL</td>
+                                            <td> Pioneer Kamal SCHOOL</td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
