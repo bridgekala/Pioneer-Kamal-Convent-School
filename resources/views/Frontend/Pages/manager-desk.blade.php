@@ -38,7 +38,11 @@
                         <div class="member-info__details">
                             <div class="short-info">
                                 <h4 class="rts-section-title mb--15">Neelam Gera</h4>
+<<<<<<< HEAD
+                                <span class="designation">Manager –  Pioneer Kamal School</span>
+=======
                                 <span class="designation">Manager – Pioneer Kamal Convent School</span>
+>>>>>>> 48b9f4350d72c3e5c0c5973f9eeeeb9affb639d7
                                 <p class="description">
                                     Neelam Gera is a passionate educationist deeply committed to shaping and nurturing
                                     future leaders who possess not only academic brilliance but also strong moral values and
@@ -54,11 +58,19 @@
                                 <h5 class="rts-section-title">Biography</h5>
                                 <p class="description">
                                     Neelam Gera firmly believes that “You are the nation-builders, the movers of technology,
+<<<<<<< HEAD
+                                    and the agents of change.” Her vision for  Pioneer Kamal School is to equip students
+                                    with leadership and managerial skills, instill moral ethics, and cultivate technical and
+                                    creative abilities that contribute to their families, society, and the nation.
+
+                                    Since 1995, under her guidance,  Pioneer Kamal School has been committed to excellence
+=======
                                     and the agents of change.” Her vision for Pioneer Kamal Convent School is to equip students
                                     with leadership and managerial skills, instill moral ethics, and cultivate technical and
                                     creative abilities that contribute to their families, society, and the nation.
 
                                     Since 1995, under her guidance, Pioneer Kamal Convent School has been committed to excellence
+>>>>>>> 48b9f4350d72c3e5c0c5973f9eeeeb9affb639d7
                                     in education, providing opportunities that help students excel academically while
                                     upholding traditional Indian values like honesty, non-violence, empathy, and
                                     truthfulness.

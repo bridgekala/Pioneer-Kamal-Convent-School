@@ -9,7 +9,7 @@
                         style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
                         <div class="header__mobile--logo" style="flex: 1; display: flex; align-items: center;">
                             <a href="{{ route('index') }}" class="header__logo--link">
-                                <img src="{{ asset('assets/images/logo/logo.png') }}" alt="Pioneer Convent"
+                                <img src="{{ asset('assets/images/logo/logo.png') }}" alt="Pioneer Kamal"
                                     style="max-width: 150px; height: auto;">
                             </a>
                         </div>

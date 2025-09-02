@@ -14,8 +14,9 @@
                     </p>
                     <div class="rts-contact-link">
                         <a href="mailto:contact@reacthemes.com"><i class="fa-sharp fa-light fa-location-dot"></i>
-                            Lok Nayak Puram, Bakkarwala, Delhi, 110041 </a>
-                        <a href="callto:121"><i class="fa-thin fa-phone"></i> 7838039084</a>
+                            A Block, Pioneer Road Vikas Nagar (Vikaspuri Extension) New Delhi-110059 Delhi, India 110059
+                            Delhi </a>
+                        <a href="callto:121"><i class="fa-thin fa-phone"></i> 7942676894</a>
                     </div>
                 </div>
             </div>
@@ -51,14 +52,14 @@
                     <div class="rts-footer-menu">
                         <ul class="d-flex justify-content-center gap-3">
                             <li>
-                                <a href="https://www.facebook.com/share/19VvqrUdGs/?mibextid=wwXIfr" target="_blank">
+                                <a href="https://www.facebook.com/people/Pioneer-Kamal-Convent-School/100064106670768/"
+                                    target="_blank">
                                     <img style="height: 30px" src="{{ asset('assets/images/social/facebook.svg') }}"
                                         alt="Facebook">
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com/pioneer_convent_loknayakpuram/profilecard/?igsh=ZnU5eHY3OTF0b3Ju"
-                                    target="_blank">
+                                <a href="" target="_blank">
                                     <img style="height: 30px" src="{{ asset('assets/images/social/instagram.svg') }}"
                                         alt="Instagram">
                                 </a>
@@ -67,37 +68,6 @@
                     </div>
                 </div>
             </div>
-            {{-- <div class="col-lg-4 col-md-6 col-sm-8">
-                <div class="rts-footer-widget ml--30">
-                    <h6 class="rt-semi">Recent Post</h6>
-                    <div class="rts-post-widget">
-                        <ul class="list-unstyled">
-                            <li class="single-post">
-                                <a href="{{ route('blog-details') }}" class="blog-thumb">
-                                    <img src="{{ asset('assets/images/blog/w-1.jpg') }}" alt="latest post">
-                                </a>
-                                <div class="post-content">
-                                    <span class="rt-date">October 29, 2023</span>
-                                    <a href="{{ route('blog-details') }}">
-                                        Avoid These 4 Common When Managing Remote Teams
-                                    </a>
-                                </div>
-                            </li>
-                            <li class="single-post">
-                                <a href="{{ route('blog-details') }}" class="blog-thumb">
-                                    <img src="{{ asset('assets/images/blog/small-thumb-1.jpg') }}" alt="latest post">
-                                </a>
-                                <div class="post-content">
-                                    <span class="rt-date">October 29, 2023</span>
-                                    <a href="{{ route('blog-details') }}">
-                                        Avoid These 4 Common When Managing Remote Teams
-                                    </a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div> --}}
         </div>
     </div>
 </footer>
@@ -105,7 +75,7 @@
     <div class="container">
         <div class="row">
             <div class="rt-center">
-                <p class="--p-xs">Copyright &copy; {{ date('Y') }} Pioneer Convent Designed & Developed by <a
+                <p class="--p-xs">Copyright &copy; {{ date('Y') }} Pioneer Kamal Convent Designed & Developed by <a
                         target="_blank" href="https://www.bridgekala.com/">BridgeKala</a></p>
             </div>
         </div>

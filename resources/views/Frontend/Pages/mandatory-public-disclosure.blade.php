@@ -32,7 +32,7 @@
                                         <tr>
                                             <td>1.</td>
                                             <td>NAME OF THE SCHOOL</td>
-                                            <td>PIONEER CONVENT SCHOOL</td>
+                                            <td> PIONEER KAMAL CONVENT SCHOOL</td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
@@ -42,12 +42,12 @@
                                         <tr>
                                             <td>3.</td>
                                             <td>SCHOOL CODE (IF APPLICABLE)</td>
-                                            <td>85345</td>
+                                            <td>07070312404</td>
                                         </tr>
                                         <tr>
                                             <td>4.</td>
                                             <td>COMPLETE ADDRESS WITH PIN CODE</td>
-                                            <td>LOK NAYAK PURAM, BAKKARWALA NEW DELHI - 110041</td>
+                                            <td>A-Block, Som Bazar, Pioneer Road, Vikas Nagar-110059</td>
                                         </tr>
                                         <tr>
                                             <td>5.</td>
@@ -57,12 +57,12 @@
                                         <tr>
                                             <td>6.</td>
                                             <td>SCHOOL EMAIL ID</td>
-                                            <td>pioneerconvent@gmail.com</td>
+                                            <td>pioneerkamalconvent@gmail.com</td>
                                         </tr>
                                         <tr>
                                             <td>7.</td>
                                             <td>CONTACT DETAILS (LANDLINE/MOBILE)</td>
-                                            <td>7838039084</td>
+                                            <td>7947425670</td>
                                         </tr>
                                     </tbody>
                                 </table>
