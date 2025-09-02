@@ -26163,7 +26163,7 @@ body.index-sc h6 {
     inset: 0;
     height: 50%;
     bottom: 0;
-    background: var(--footer-bg);
+    background: #d9d9d9;
     top: unset;
 }
 .rts-newsletter.rts__white {
@@ -26320,7 +26320,7 @@ body.index-sc h6 {
     padding-bottom: 80px;
 }
 .rts-footer.v_2 {
-    background: var(--footer-bg);
+    background: #d9d9d9;
 }
 .rts-footer.v_2 .rts-footer-newsletter {
     display: flex;
