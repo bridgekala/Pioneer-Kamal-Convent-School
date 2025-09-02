@@ -107,9 +107,11 @@
                 <li class="has-droupdown">
                     <a href="#" class="main">Disclosure</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="{{ route('mandatory-public-disclosure') }}">Mandatory Public Disclosure</a>
+                        <li><a class="mobile-menu-link" href="{{ route('mandatory-public-disclosure') }}">Mandatory
+                                Public Disclosure</a>
                         </li>
-                        <li><a class="mobile-menu-link" href="{{ route('saras-mandatory-disclosure') }}">SARAS-Mandatory
+                        <li><a class="mobile-menu-link"
+                                href="{{ route('saras-mandatory-disclosure') }}">SARAS-Mandatory
                                 Disclosure</a></li>
                     </ul>
                 </li>
@@ -124,16 +126,16 @@
         </nav>
 
         <div class="offcanvase__info--content mt--30">
-            <a href="callto:+61485826710"><span><i class="fa-sharp fa-light fa-phone"></i></span>09555589555</a>
-            <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>Lok Nayak Puram,
-                Bakkarwala, Delhi, 110041</a>
+            <a href="callto:+61485826710"><span><i class="fa-sharp fa-light fa-phone"></i></span>7947128781</a>
+            <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>A-Block, Som Bazar,
+                Pioneer Road, Vikas Nagar-110059</a>
             <div class="offcanvase__info--content--social">
                 <p class="title">Follow Us:</p>
                 <div class="social__links">
-                    <a href="https://www.facebook.com/share/19VvqrUdGs/?mibextid=wwXIfr"><i
+                    <a href="https://www.facebook.com/people/Pioneer-Kamal-Convent-School/100064106670768/"><i
                             class="fa-brands fa-facebook"></i></a>
                     <a
-                        href="https://www.instagram.com/pioneer_convent_loknayakpuram/profilecard/?igsh=ZnU5eHY3OTF0b3Ju"><i
+                        href=""><i
                             class="fa-brands fa-instagram"></i></a>
                     <a href="#"><i class="fa-brands fa-linkedin"></i></a>
                     <a href="#"><i class="fa-brands fa-youtube"></i></a>
