@@ -38,14 +38,14 @@
                         <div class="member-info__details">
                             <div class="short-info">
                                 <h4 class="rts-section-title mb--15">Dr. Seema Bajaj</h4>
-                                <span class="designation">Principal, Pioneer Convent Sr. Sec. School
+                                <span class="designation">Principal, Pioneer Kamal Convent School
                                 </span>
                             </div>
                             <div class="short-info">
                                 <h5 class="rts-section-title">About Me</h5>
                                 <p class="description">
                                     With an unwavering passion for education and a profound belief in nurturing the mind,
-                                    body, and soul, I serve as the Principal of Pioneer Convent Sr. Sec. School. Over the
+                                    body, and soul, I serve as the Principal of Pioneer Kamal Convent School. Over the
                                     years, I have championed a dynamic educational model rooted in timeless Indian values,
                                     global best practices, and student-centric learning.
 
@@ -56,7 +56,7 @@
                                     responsible generation.
                                 </p>
                                 <h5 class="rts-section-title">Educational Philosophy</h5>
-                                <p class="description">At Pioneer Convent, we merge modern infrastructure with holistic
+                                <p class="description">At Pioneer Kamal Convent, we merge modern infrastructure with holistic
                                     pedagogy — integrating club activities such as robotics, performing arts, sports, and
                                     life skills with academic rigor. Inspired by the Multiple Intelligence Theory, our
                                     curriculum identifies and develops each student’s innate potential.
