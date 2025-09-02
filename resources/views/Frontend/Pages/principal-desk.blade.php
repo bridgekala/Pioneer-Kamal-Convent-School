@@ -56,7 +56,7 @@
                                     responsible generation.
                                 </p>
                                 <h5 class="rts-section-title">Educational Philosophy</h5>
-                                <p class="description">At Pioneer Convent, we merge modern infrastructure with holistic
+                                <p class="description">At Pioneer Kamal Convent, we merge modern infrastructure with holistic
                                     pedagogy — integrating club activities such as robotics, performing arts, sports, and
                                     life skills with academic rigor. Inspired by the Multiple Intelligence Theory, our
                                     curriculum identifies and develops each student’s innate potential.

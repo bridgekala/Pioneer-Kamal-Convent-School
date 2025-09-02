@@ -18,15 +18,7 @@
                     </div>
                     <div class="col-lg-8 col-md-7">
                         <p class="rts-section-description">
-<<<<<<< HEAD
-<<<<<<< HEAD
                             Established in 1995, Pioneer Kamal Convent School has been shaping young minds through
-=======
-                            Established in 1995, Pioneer Kamal Convent Sr. Sec. School has been shaping young minds through
->>>>>>> 36416baa6583dd51ca36b1898de935028417806a
-=======
-                            Established in 1995, Pioneer Kamal Convent School has been shaping young minds through
->>>>>>> ab83c182096ea864bbfb0a393631eb6bc51844ab
                             quality education, strong values, and holistic development, creating responsible and confident
                             individuals prepared to face future challenges with knowledge, integrity, and compassion.
                         </p>
