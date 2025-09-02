@@ -188,7 +188,7 @@
                 </div>
                 <div class="col-lg-6 col-xl-7 col-md-10 col-sm-11">
                     <div class="rts-right-section rt-relative">
-                        <p class="rt-white mb--40">Welcome to Pioneer Kamal Convent School
+                        <p class="rt-white mb--40">Welcome to Pioneer Kamal Convent School!
                              Pioneer Kamal is among Delhi’s premier educational institutions, where we blend strong Indian
                             values with global learning methodologies. Our mission is to prepare young minds to be
                             innovative, compassionate, and future-ready leaders.</p>
@@ -220,7 +220,7 @@
                     <div class="rts__section--wrapper v__7">
                         <h2 class="rts__section--title">Fee Structure at Pioneer Kamal Convent School</h2>
                         <p class="rts__section--description">
-                            At Pioneer Convent, we are committed to providing high-quality, value-based education at an
+                            At Pioneer Kamal Convent, we are committed to providing high-quality, value-based education at an
                             affordable cost. Our fee structure is designed to remain transparent and accessible, ensuring
                             every child can benefit from holistic learning.
                         </p>
@@ -313,7 +313,7 @@
                     <div class="rts__section--wrapper v__9">
                         <h2 class="rts__section--title">Apply for Admission</h2>
                         <p class="rts__section--description">Welcome to the gateway of possibilities your admission to
-                            Unipix University. At Unipix, we understand.</p>
+                            Pioneer Kamal. At Pioneer Kamal, we understand.</p>
                     </div>
                 </div>
             </div>

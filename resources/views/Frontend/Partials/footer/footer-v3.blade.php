@@ -14,8 +14,9 @@
                     </p>
                     <div class="rts-contact-link">
                         <a href="mailto:contact@reacthemes.com"><i class="fa-sharp fa-light fa-location-dot"></i>
-                            Lok Nayak Puram, Bakkarwala, Delhi, 110041 </a>
-                        <a href="callto:121"><i class="fa-thin fa-phone"></i> 7838039084</a>
+                            A Block, Pioneer Road Vikas Nagar (Vikaspuri Extension) New Delhi-110059 Delhi, India 110059
+                            Delhi </a>
+                        <a href="callto:121"><i class="fa-thin fa-phone"></i> 7942676894</a>
                     </div>
                 </div>
             </div>
@@ -51,14 +52,14 @@
                     <div class="rts-footer-menu">
                         <ul class="d-flex justify-content-center gap-3">
                             <li>
-                                <a href="https://www.facebook.com/share/19VvqrUdGs/?mibextid=wwXIfr" target="_blank">
+                                <a href="https://www.facebook.com/people/Pioneer-Kamal-Convent-School/100064106670768/"
+                                    target="_blank">
                                     <img style="height: 30px" src="{{ asset('assets/images/social/facebook.svg') }}"
                                         alt="Facebook">
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com/pioneer_convent_loknayakpuram/profilecard/?igsh=ZnU5eHY3OTF0b3Ju"
-                                    target="_blank">
+                                <a href="" target="_blank">
                                     <img style="height: 30px" src="{{ asset('assets/images/social/instagram.svg') }}"
                                         alt="Instagram">
                                 </a>
