@@ -19,10 +19,14 @@
                     <div class="col-lg-8 col-md-7">
                         <p class="rts-section-description">
 <<<<<<< HEAD
+<<<<<<< HEAD
                             Established in 1995, Pioneer Kamal Convent School has been shaping young minds through
 =======
                             Established in 1995, Pioneer Kamal Convent Sr. Sec. School has been shaping young minds through
 >>>>>>> 36416baa6583dd51ca36b1898de935028417806a
+=======
+                            Established in 1995, Pioneer Kamal Convent School has been shaping young minds through
+>>>>>>> ab83c182096ea864bbfb0a393631eb6bc51844ab
                             quality education, strong values, and holistic development, creating responsible and confident
                             individuals prepared to face future challenges with knowledge, integrity, and compassion.
                         </p>
@@ -86,10 +90,14 @@
                         <h4 class="rts-section-title mb--40">Our Story</h4>
                         <p>
 <<<<<<< HEAD
+<<<<<<< HEAD
                             Founded in 1995, Pioneer Kamal Convent School has grown into one of Delhi’s most respected
 =======
                             Founded in 1995, Pioneer Kamal Convent Sr. Sec. School has grown into one of Delhi’s most respected
 >>>>>>> 36416baa6583dd51ca36b1898de935028417806a
+=======
+                            Founded in 1995, Pioneer Kamal Convent School has grown into one of Delhi’s most respected
+>>>>>>> ab83c182096ea864bbfb0a393631eb6bc51844ab
                             CBSE-affiliated institutions. Nestled in the heart of Loknayakpuram, our 2-acre lush green
                             campus provides a serene and stimulating environment where students can learn, grow, and thrive.
                             From pre-primary to Class 12, we offer all academic streams, supported by modern infrastructure
