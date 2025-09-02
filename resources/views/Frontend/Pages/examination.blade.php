@@ -23,7 +23,7 @@
                         From Class VI onward, the teaching-learning process incorporates lectures, active student
                         participation,
                         projects, and hands-on practical work.
-                        The academic session for Classes I to XII is divided into two terms: the First Term (April to
+                        The academic session for Classes I to X is divided into two terms: the First Term (April to
                         September)
                         and the Second Term (October to March). For Pre-school and Pre-primary students, the academic year
                         is
