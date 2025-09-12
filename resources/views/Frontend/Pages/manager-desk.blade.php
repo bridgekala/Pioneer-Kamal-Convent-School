@@ -5,7 +5,7 @@
         'class' => 'breadcrumb-height breadcumb-bg',
         'image' => 'breadcrumb.jpg',
         'title' => "Manager's Desk",
-        'page' => "About Us",
+        'page' => 'About Us',
     ])
 
     <!-- faculty directory -->
@@ -16,7 +16,7 @@
                     <div class="faculty-member">
                         <div class="faculty-member__details rt-center ">
                             <div class="faculty-member__image">
-                                <img src="{{ asset('assets/images/faculty/manager.jpg') }}" alt="member image">
+                                <img src="{{ asset('assets/images/faculty/mem-1.jpg') }}" alt="member image">
                             </div>
                             <div class="faculty-member__info">
                                 <div class="faculty-member__info--social">
@@ -26,9 +26,9 @@
                                     <a href="#"><i class="fa-brands fa-youtube"></i></a>
                                 </div>
                                 <a href="mailto:jenni@Unipixuni.edu" class="email-contact"><span><i
-                                            class="fa-light fa-envelope"></i></span>----------</a>
+                                            class="fa-light fa-envelope"></i></span>------------</a>
                                 <a href="calltto:121" class="phone-contact"><span><i
-                                            class="fa-light fa-phone"></i></span>+xxxxxxxxxx</a>
+                                            class="fa-light fa-phone"></i></span>+91-XXXXXXXXXX</a>
                             </div>
                         </div>
                     </div>
@@ -37,60 +37,50 @@
                     <div class="member-info ">
                         <div class="member-info__details">
                             <div class="short-info">
-                                <h4 class="rts-section-title mb--15">Neelam Gera</h4>
-<<<<<<< HEAD
-                                <span class="designation">Manager –  Pioneer Kamal School</span>
-=======
-                                <span class="designation">Manager – Pioneer Kamal Convent School</span>
->>>>>>> 48b9f4350d72c3e5c0c5973f9eeeeb9affb639d7
+                                <h4 class="rts-section-title mb--15">Dr. Seema Bajaj</h4>
+                                <span class="designation">Principal, Pioneer Kamal Convent School
+                                </span>
+                            </div>
+                            <div class="short-info">
+                                <h5 class="rts-section-title">About Me</h5>
                                 <p class="description">
-                                    Neelam Gera is a passionate educationist deeply committed to shaping and nurturing
-                                    future leaders who possess not only academic brilliance but also strong moral values and
-                                    essential life skills. With a visionary approach to holistic education, she believes in
-                                    empowering students to grow into responsible, confident, and empathetic individuals
-                                    capable of leading with wisdom, integrity, and distinction in every sphere of life. Her
-                                    dedication lies in creating a learning environment where academic excellence is balanced
-                                    with ethical grounding and personal growth, ensuring students are well-prepared to face
-                                    the challenges of the modern world while remaining rooted in timeless principles.
+                                    With an unwavering passion for education and a profound belief in nurturing the mind,
+                                    body, and soul, I serve as the Principal of Pioneer Kamal Convent School. Over the
+                                    years, I have championed a dynamic educational model rooted in timeless Indian values,
+                                    global best practices, and student-centric learning. Our school community is dedicated
+                                    to fostering leadership, compassion, and discipline through academic excellence and
+                                    co-curricular engagement. I believe in empowering students with integrity, adaptability,
+                                    and resilience to lead in an ever-evolving world. Education is not merely the transfer
+                                    of knowledge, but the shaping of a conscious and responsible generation.
+                                </p>
+                                <h5 class="rts-section-title">Educational Philosophy</h5>
+                                <p class="description">At Pioneer Kamal Convent, we merge modern infrastructure with
+                                    holistic pedagogy — integrating club activities such as robotics, performing arts,
+                                    sports, and life skills with academic rigor. Inspired by the Multiple Intelligence
+                                    Theory, our curriculum identifies and develops each student’s innate potential. My role
+                                    as an educational leader is to work alongside educators, parents, and stakeholders to
+                                    build an ecosystem where respect, discipline, and curiosity thrive.
+                                </p>
+                                <h5 class="rts-section-title">Core Values</h5>
+                                <p class="description">
+                                    <li> Integrity & Leadership</li>
+                                    <li>Holistic, Student-Centered Learning</li>
+                                    <li>Mind-Body-Soul Coordination</li>
+                                    <li>Discipline, Empathy, and Respect</li>
+                                    <li>Global Citizenship with Indian Values</li>
                                 </p>
                             </div>
                             <div class="short-info">
-                                <h5 class="rts-section-title">Biography</h5>
-                                <p class="description">
-                                    Neelam Gera firmly believes that “You are the nation-builders, the movers of technology,
-<<<<<<< HEAD
-                                    and the agents of change.” Her vision for  Pioneer Kamal School is to equip students
-                                    with leadership and managerial skills, instill moral ethics, and cultivate technical and
-                                    creative abilities that contribute to their families, society, and the nation.
+                                <h5 class="rts-section-title">Message to Students</h5>
+                                <div class="course__single">
+                                    Respect your teachers, embrace discipline, and allow education to mold you into
+                                    compassionate leaders. Let learning be a joyful, transformative experience. At Pioneer
+                                    Kamal Convent, we prepare you not just for exams, but for life. Let us instill love,
+                                    unity, and purpose — and together, let’s shape a better tomorrow.
 
-                                    Since 1995, under her guidance,  Pioneer Kamal School has been committed to excellence
-=======
-                                    and the agents of change.” Her vision for Pioneer Kamal Convent School is to equip students
-                                    with leadership and managerial skills, instill moral ethics, and cultivate technical and
-                                    creative abilities that contribute to their families, society, and the nation.
-
-                                    Since 1995, under her guidance, Pioneer Kamal Convent School has been committed to excellence
->>>>>>> 48b9f4350d72c3e5c0c5973f9eeeeb9affb639d7
-                                    in education, providing opportunities that help students excel academically while
-                                    upholding traditional Indian values like honesty, non-violence, empathy, and
-                                    truthfulness.
-
-                                    She emphasizes holistic growth by offering a vibrant mix of academic and co-curricular
-                                    activities such as debates, theater, environment clubs, sports (badminton, table tennis,
-                                    basketball, cricket, etc.), music, dance, art, and more.
-
-                                    Her leadership focuses on creating a safe, healthy, intellectually stimulating, and
-                                    enjoyable learning environment, encouraging active collaboration and technology-based
-                                    methodologies to prepare students to lead their country with distinction.
-                                </p>
-                                <h5 class="rts-section-title">Core Philosophy:</h5>
-                                <p>
-                                    <li>Crafting students for the future</li>
-                                    <li>Instilling values & life skills alongside academics</li>
-                                    <li>Encouraging leadership, confidence & discipline</li>
-                                    <li>Blending traditional values with modern learning</li>
-                                </p> <br>
+                                </div>
                             </div>
+
                         </div>
                     </div>
                 </div>

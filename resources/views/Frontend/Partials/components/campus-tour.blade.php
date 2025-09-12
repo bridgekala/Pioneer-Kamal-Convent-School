@@ -13,12 +13,9 @@
             </div>
             <div class="col-lg-8">
                 <div class="rts-video-section-text rt-center mx-3">
-                    <p>Step into the vibrant world of Pioneer Kamal Convent School—a 2-acre lush green campus
-                        designed for academic excellence, creativity, and holistic growth. From state-of-the-art science
-                        and computer labs to open sports grounds and interactive learning zones, every corner of our
-                        school nurtures knowledge and character. Whether you’re exploring classrooms, activity hubs, or
-                        co-curricular clubs, you’ll find an inspiring environment where students thrive. Join us for a
-                        glimpse into a space where values meet vision and every child discovers their true potential.
+                    <p>Welcome to Pioneer Kamal Convent School, where learning goes beyond classrooms. Our campus is
+                        designed to provide students with an inspiring, safe, and resource-rich environment.
+
                     </p>
                     <a href="{{ route('about') }}" class="mt--15 about-btn rts-nbg-btn btn-arrow">Visit Campus
                         <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span></a>

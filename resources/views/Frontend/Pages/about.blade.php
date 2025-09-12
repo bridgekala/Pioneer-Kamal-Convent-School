@@ -18,9 +18,9 @@
                     </div>
                     <div class="col-lg-8 col-md-7">
                         <p class="rts-section-description">
-                            Established in 1995, Pioneer Kamal Convent School has been shaping young minds through
-                            quality education, strong values, and holistic development, creating responsible and confident
-                            individuals prepared to face future challenges with knowledge, integrity, and compassion.
+                            Established in 1997, Pioneer Kamal Convent School has been shaping young minds with quality
+                            education, moral values, and holistic growth. For over two decades, the school has prepared
+                            responsible, confident individuals who face challenges with integrity and knowledge
                         </p>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                                 <img src="{{ asset('assets/images/icon/11.svg') }}" alt="">
                             </div>
                             <div class="desc">
-                                <p>Enrolled Students from Nursery to Class 12
+                                <p>Enrolled Students from Nursery to Class 10
                                 </p>
                             </div>
                         </div>
@@ -81,17 +81,17 @@
                     <div class="rts-history-section">
                         <h4 class="rts-section-title mb--40">Our Story</h4>
                         <p>
-                            Founded in 1995, Pioneer Kamal Convent School has grown into one of Delhi’s most respected
-                            CBSE-affiliated institutions. Nestled in the heart of Loknayakpuram, our 2-acre lush green
-                            campus provides a serene and stimulating environment where students can learn, grow, and thrive.
-                            From pre-primary to Class 12, we offer all academic streams, supported by modern infrastructure
-                            and a team of passionate educators.
+                            Since its foundation in 1997, Pioneer Kamal Convent School has grown into one of Delhi’s most
+                            respected CBSE-affiliated schools. Nestled in the heart of Vikas Nagar, our campus provides a
+                            vibrant learning environment that nurtures creativity and curiosity.
                             <span class="d-block mb--30"></span>
-                            At Pioneer, we follow a child-centric approach inspired by the globally recognized Multiple
-                            Intelligence Theory. Our aim is to recognize and nurture each student’s unique potential through
-                            personalized learning experiences. By integrating academic excellence with co-curricular
-                            activities, life skills, and moral values, we empower our students with the knowledge,
-                            confidence, and integrity needed to lead meaningful and successful lives.
+                            From Pre-Primary to Class X, we offer modern infrastructure, innovative teaching methodologies,
+                            and a faculty committed to child-centric education. Following the Multiple Intelligence Theory,
+                            we recognize and cultivate each child’s unique potential.
+                            <span class="d-block mb--30"></span>
+                            By blending academics with co-curricular activities, life skills, and cultural values, we
+                            empower our students to grow into confident, ethical, and successful individuals ready to make
+                            meaningful contributions to society.
                         </p>
                     </div>
                 </div>
@@ -141,16 +141,17 @@
                         <div class="rts-timeline-content">
                             <div class="left-side">
                                 <div class="single-timeline-item">
-                                    <h5 class="timeline-title"> Academic Excellence & Values</h5>
-                                    <p>We combine values and modern education to nurture confident, future-ready global
+                                    <h5 class="timeline-title"></h5>
+                                    <p>Combine values and modern education to nurture confident, future-ready global
                                         citizens.
                                     </p>
                                     <img src="{{ asset('assets/images/about/mission-1.jpg') }}" alt="">
                                 </div>
                                 <div class="single-timeline-item">
-                                    <h5 class="timeline-title">Whole Child Development</h5>
-                                    <p>We promote balanced growth through academics, co-curricular activities, and
+                                    <h5 class="timeline-title"></h5>
+                                    <p>Promote balanced growth through academics, co-curricular activities, and
                                         character-building experiences.
+
                                     </p>
                                     <img src="{{ asset('assets/images/about/mission-2.jpg') }}" alt="">
                                 </div>
@@ -159,15 +160,17 @@
                             </div>
                             <div class="right-side">
                                 <div class="single-timeline-item">
-                                    <h5 class="timeline-title">Holistic Growth</h5>
-                                    <p> We envision nurturing minds through creativity, compassion, leadership, and
-                                        student-centered learning environments.
+                                    <h5 class="timeline-title"></h5>
+                                    <p> Nurture minds through creativity, compassion, leadership, and student-centered
+                                        learning environments.
                                     </p>
                                     <img src="{{ asset('assets/images/about/mission-3.jpg') }}" alt="">
                                 </div>
                                 <div class="single-timeline-item">
-                                    <h5 class="timeline-title">Future-Ready Leaders</h5>
-                                    <p>We aim to inspire innovative, ethical, and green leaders for tomorrow’s world.
+                                    <h5 class="timeline-title"></h5>
+                                    <p>
+                                        Inspire students to become innovative, ethical, and environmentally conscious
+                                        leaders of tomorrow.
                                     </p>
                                     <img src="{{ asset('assets/images/about/mission-4.jpg') }}" alt="">
                                 </div>
