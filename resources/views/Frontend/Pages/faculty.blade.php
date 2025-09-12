@@ -49,34 +49,24 @@
                                             </thead>
                                             <tbody>
                                                 <tr>
-                                                    <td>Vice-Principal</td>
+                                                    <td>Principal</td>
                                                     <td>M.Sc./ B.Ed/M.Ed</td>
                                                     <td>01</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>PGT</td>
-                                                    <td>M.Com./MA./MCA/M.Sc./M.Tech/ B.Ed/M.Ed/M.PEd</td>
-                                                    <td>15</td>
-                                                </tr>
-                                                <tr>
                                                     <td>TGT</td>
-                                                    <td>BA./B.Com/B.Sc/M.Com./MA./MCA/M.Sc./ B.Ed/M.Ed/B.PEd</td>
+                                                    <td>TGT BA./B.Com/B.Sc/M.Com./MA./MCA/M.Sc./ B.Ed/M.Ed/B.PEd</td>
                                                     <td>08</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Primary Teachers</td>
                                                     <td>BA./B.Com//B.Sc./ B.Ed/B.PEd</td>
-                                                    <td>10</td>
+                                                    <td>08</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Nursery Teachers</td>
                                                     <td>Intermediate/BA./B.Com//B.Sc./ B.Ed/NTT</td>
                                                     <td>03</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>Lab. Asst.</td>
-                                                    <td>B.Sc./ B.Ed</td>
-                                                    <td>01</td>
                                                 </tr>
                                                 <tr>
                                                     <td>Counsellor/Wellness Teacher</td>

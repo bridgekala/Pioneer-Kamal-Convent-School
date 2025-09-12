@@ -66,15 +66,11 @@
                         <li><a class="mobile-menu-link" href="{{ route('Infrastructure') }}#computer-lab">Computer
                                 Lab</a>
                         </li>
-                        <li><a class="mobile-menu-link" href="{{ route('Infrastructure') }}#physics-lab">Physics
-                                Lab</a>
+                        <li><a class="mobile-menu-link"
+                                href="{{ route('Infrastructure') }}#composite-science-lab">Composite
+                                Science Lab</a>
                         </li>
-                        <li><a class="mobile-menu-link" href="{{ route('Infrastructure') }}#chemistry-lab">Chemistry
-                                Lab</a>
-                        </li>
-                        <li><a class="mobile-menu-link" href="{{ route('Infrastructure') }}#biology-lab">Biology
-                                Lab</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('Infrastructure') }}#music-room">Music Room</a>
+                        <li><a class="mobile-menu-link" href="{{ route('Infrastructure') }}#auditorium">Auditorium</a>
                         </li>
                         <li><a class="mobile-menu-link" href="{{ route('Infrastructure') }}#sports-room">Sports
                                 Room</a></li>
@@ -134,9 +130,7 @@
                 <div class="social__links">
                     <a href="https://www.facebook.com/people/Pioneer-Kamal-Convent-School/100064106670768/"><i
                             class="fa-brands fa-facebook"></i></a>
-                    <a
-                        href=""><i
-                            class="fa-brands fa-instagram"></i></a>
+                    <a href=""><i class="fa-brands fa-instagram"></i></a>
                     <a href="#"><i class="fa-brands fa-linkedin"></i></a>
                     <a href="#"><i class="fa-brands fa-youtube"></i></a>
                 </div>

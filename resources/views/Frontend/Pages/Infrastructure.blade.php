@@ -51,7 +51,7 @@
                 </div>
             </div>
             <!-- third -->
-            <div id="physics-lab" class="row g-5 justify-content-center justify-content-start align-items-center">
+            <div id="composite-science-lab" class="row g-5 justify-content-center justify-content-start align-items-center">
                 <div class="col-lg-7 col-md-11">
                     <div class="rts-multi-row-image">
                         <img src="{{ asset('assets/images/feature/physics-lab.jpg') }}" alt="undergraduate education">
@@ -61,7 +61,7 @@
                     <div class="rts-multi-row-content">
                         <div class="program-list">
                             <div class="single-list">
-                                <h4 class="row-title">Physics Lab</h4>
+                                <h4 class="row-title">Composite Science Lab</h4>
                                 <p>A spacious, CBSE-compliant lab supporting theory through practical learning with
                                     equipment ranging from magnets and pulleys to potentiometers and galvanometers.
                                     Students from Classes IX–XII regularly attend lab sessions to gain a deeper
@@ -74,10 +74,10 @@
                 </div>
             </div>
             <!-- fourth -->
-            <div id="chemistry-lab" class="row g-5 justify-content-center justify-content-start align-items-center">
+            <div id="auditorium" class="row g-5 justify-content-center justify-content-start align-items-center">
                 <div class="col-lg-5 col-md-11">
                     <div class="rts-multi-row-content left-side">
-                        <h3 class="row-title">Chemistry Lab</h3>
+                        <h3 class="row-title">Auditorium</h3>
                         <p>A well-equipped lab providing individual workstations with burners, plug points, and modern
                             apparatus like distillation units and electronic weighing machines.
                             It emphasizes safety, with fire extinguishers and separate chemical storage. The lab focuses on
@@ -92,46 +92,8 @@
                 </div>
             </div>
             <!-- fifth -->
-            <div id="biology-lab" class="row g-5 justify-content-center justify-content-start align-items-center">
-                <div class="col-lg-7 col-md-11">
-                    <div class="rts-multi-row-image">
-                        <img src="{{ asset('assets/images/feature/bio-lab.jpg') }}" alt="undergraduate education">
-                    </div>
-                </div>
-                <div class="col-lg-5 col-md-11">
-                    <div class="rts-multi-row-content">
-                        <div class="program-list">
-                            <div class="single-list">
-                                <h4 class="row-title">Biology Lab</h4>
-                                <p>A well-equipped lab providing individual workstations with burners, plug points, and
-                                    modern apparatus like distillation units and electronic weighing machines.
-                                    It emphasizes safety, with fire extinguishers and separate chemical storage. The lab
-                                    focuses on developing scientific skills, teamwork, and inspiring future scientists.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- sixth -->
-            <div id="music-room" class="row g-5 justify-content-center justify-content-start align-items-center">
-                <div class="col-lg-5 col-md-11">
-                    <div class="rts-multi-row-content left-side">
-                        <h3 class="row-title">Music Room</h3>
-                        <p>Music education is offered through instruments like harmonium, casio, tabla, and dholak.
-                            The school features choir and instrumental groups that regularly win awards at various levels,
-                            nurturing both artistic expression and discipline.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-lg-7 col-md-11">
-                    <div class="rts-multi-row-image">
-                        <img src="{{ asset('assets/images/feature/music-room.jpg') }}" alt="undergraduate education">
-                    </div>
-                </div>
-            </div>
-            <!-- seventh -->
-            <div id="sports-room" style="margin-bottom: 100px; "  class="row g-5 justify-content-center justify-content-start align-items-center">
+            <div id="sports-room" style="margin-bottom: 100px; "
+                class="row g-5 justify-content-center justify-content-start align-items-center">
                 <div class="col-lg-7 col-md-11">
                     <div class="rts-multi-row-image">
                         <img src="{{ asset('assets/images/feature/sports-room.png') }}" alt="undergraduate education">
