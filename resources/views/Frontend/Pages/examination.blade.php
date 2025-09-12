@@ -15,25 +15,19 @@
                 <div class="col-lg-6">
                     <p class="desc">At Pioneer, academic excellence is consistently emphasized. Students are encouraged to
                         cultivate clear thinking, logical reasoning, and strong analytical and interpretative skills,
-                        equipping
-                        them to confidently face challenges beyond the school environment.
-                        In the Pre-school and Pre-primary levels, learning is conducted entirely through 'Play-Way methods,'
-                        ensuring a joyful and engaging experience. At the Primary level, as students’ cognitive and social
-                        skills develop, a balanced approach involving both group activities and individual tasks is adopted.
-                        From Class VI onward, the teaching-learning process incorporates lectures, active student
-                        participation,
-                        projects, and hands-on practical work.
-                        The academic session for Classes I to X is divided into two terms: the First Term (April to
-                        September)
-                        and the Second Term (October to March). For Pre-school and Pre-primary students, the academic year
-                        is
-                        divided into three terms.
-                        Promotion to the next class is based on achieving the required academic standards in all subjects.
-                        Overall student progress is communicated through progress cards, which must be reviewed and signed
-                        by
-                        parents or guardians before being returned to the school. For Classes Pre-school to II, students are
-                        evaluated using a grading system. Any student receiving an 'E' Grade at the end of the term may be
-                        advised to repeat the class for better foundational learning.
+                        equipping them to confidently face challenges beyond the school environment. In the Pre-school and
+                        Pre-primary levels, learning is conducted entirely through 'Play-Way methods,' ensuring a joyful and
+                        engaging experience. At the Primary level, as students’ cognitive and social skills develop, a
+                        balanced approach involving both group activities and individual tasks is adopted. From Class VI
+                        onward, the teaching-learning process incorporates lectures, active student participation, projects,
+                        and hands-on practical work. The academic session for Classes I to X is divided into two terms: the
+                        First Term (April to September) and the Second Term (October to March). For Pre-school and
+                        Pre-primary students, the academic year is divided into three terms. Promotion to the next class is
+                        based on achieving the required academic standards in all subjects. Overall student progress is
+                        communicated through progress cards, which must be reviewed and signed by parents or guardians
+                        before being returned to the school. For Classes Pre-school to II, students are evaluated using a
+                        grading system. Any student receiving an 'E' Grade at the end of the term may be advised to repeat
+                        the class for better foundational learning.
                     </p>
                     <h4>Honouring Academic Excellence</h4>
                     <ol style="margin-bottom: 100px">
