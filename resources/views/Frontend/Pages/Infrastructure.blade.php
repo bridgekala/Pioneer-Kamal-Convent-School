@@ -62,11 +62,14 @@
                         <div class="program-list">
                             <div class="single-list">
                                 <h4 class="row-title">Composite Science Lab</h4>
-                                <p>A spacious, CBSE-compliant lab supporting theory through practical learning with
-                                    equipment ranging from magnets and pulleys to potentiometers and galvanometers.
-                                    Students from Classes IX–XII regularly attend lab sessions to gain a deeper
-                                    understanding of physics concepts. All equipment is well-maintained, and teachers ensure
-                                    engaging, hands-on learning experiences.
+                                <p>Our Composite Science Lab is a well-equipped, CBSE-compliant facility designed to bring
+                                    scientific concepts to life. The lab provides students from Classes IX–XII with
+                                    opportunities to explore Physics, Chemistry, and Biology through hands-on experiments
+                                    and demonstrations. From studying electrical circuits and mechanics to chemical
+                                    reactions and biological models, the lab nurtures curiosity and strengthens theoretical
+                                    knowledge with practical applications. Spacious, safe, and regularly updated with modern
+                                    apparatus, the lab ensures an engaging environment where students learn through
+                                    observation, experimentation, and discovery.
                                 </p>
                             </div>
                         </div>
@@ -78,10 +81,11 @@
                 <div class="col-lg-5 col-md-11">
                     <div class="rts-multi-row-content left-side">
                         <h3 class="row-title">Auditorium</h3>
-                        <p>A well-equipped lab providing individual workstations with burners, plug points, and modern
-                            apparatus like distillation units and electronic weighing machines.
-                            It emphasizes safety, with fire extinguishers and separate chemical storage. The lab focuses on
-                            developing scientific skills, teamwork, and inspiring future scientists.
+                        <p>Our state-of-the-art auditorium provides the perfect setting for cultural programs, seminars,
+                            workshops, and interactive sessions. With spacious seating, advanced audio-visual systems, and
+                            proper lighting, it offers an ideal environment for both academic and co-curricular activities.
+                            The auditorium serves as a hub for school events, guest lectures, and student performances,
+                            encouraging confidence, creativity, and collaborative learning.
                         </p>
                     </div>
                 </div>

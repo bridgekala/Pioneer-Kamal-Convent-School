@@ -4,8 +4,7 @@
             <h2 class="section-title rt-center mb--50">Our Campus Tour</h2>
             <div class="col-12">
                 <div class="rts-video-section height-500 mb--50">
-                    <a href="https://www.youtube.com/watch?v=3ItqSTGHtzc"
-                        class="rts-video-section-player popup-video video-btn">
+                    <a href="https://youtu.be/kjMUu37588s" class="rts-video-section-player popup-video video-btn">
                         <i class="fa-sharp fa-solid fa-play"></i>
                     </a>
                     <img src="{{ asset('assets/images/about/video-thumb.jpg') }}" alt="video-bg">

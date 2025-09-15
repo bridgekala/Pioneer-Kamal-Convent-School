@@ -37,22 +37,22 @@
                                         <tr>
                                             <td>2.</td>
                                             <td>AFFILIATION NO (IF APPLICABLE)</td>
-                                            <td>2730606</td>
+                                            <td>2730422</td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
                                             <td>SCHOOL CODE (IF APPLICABLE)</td>
-                                            <td>07070312404</td>
+                                            <td>85351</td>
                                         </tr>
                                         <tr>
                                             <td>4.</td>
                                             <td>COMPLETE ADDRESS WITH PIN CODE</td>
-                                            <td>A-Block, Som Bazar, Pioneer Road, Vikas Nagar-110059</td>
+                                            <td>A-Block, Vikas Nagar, Delhi - 110059</td>
                                         </tr>
                                         <tr>
                                             <td>5.</td>
                                             <td>PRINCIPAL'S NAME AND QUALIFICATION</td>
-                                            <td>Dr. SEEMA BAJAJ, M.COM., M.ED.</td>
+                                            <td>Mrs. Mallika Bajaj, M.Tech, B.Ed</td>
                                         </tr>
                                         <tr>
                                             <td>6.</td>
@@ -62,7 +62,7 @@
                                         <tr>
                                             <td>7.</td>
                                             <td>CONTACT DETAILS (LANDLINE/MOBILE)</td>
-                                            <td>7947425670</td>
+                                            <td>9555111155</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -216,66 +216,26 @@
                                         <tr>
                                             <td>1.</td>
                                             <td>2022-2023</td>
-                                            <td>38</td>
-                                            <td>38</td>
+                                            <td>37</td>
+                                            <td>37</td>
                                             <td>100%</td>
                                             <td>EXCELLENT</td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
                                             <td>2023-2024</td>
-                                            <td>53</td>
-                                            <td>53</td>
+                                            <td>39</td>
+                                            <td>39</td>
                                             <td>100%</td>
                                             <td>EXCELLENT</td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
                                             <td>2024-2025</td>
-                                            <td>50</td>
-                                            <td>50</td>
+                                            <td>42</td>
+                                            <td>42</td>
                                             <td>100%</td>
                                             <td>EXCELLENT</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-                                <h5 class="rts-section-title mt--40">RESULT CLASS: XII</h5>
-                                <table class="table">
-                                    <thead class="table-theme">
-                                        <tr>
-                                            <td>SL No.</td>
-                                            <td>YEAR</td>
-                                            <td>NO. OF REGISTERED STUDENTS</td>
-                                            <td>NO. OF STUDENTS PASSED</td>
-                                            <td>PASS PERCENTAGE</td>
-                                            <td>REMARKS</td>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>1.</td>
-                                            <td>2022-2023</td>
-                                            <td>61</td>
-                                            <td>59</td>
-                                            <td>96.72%</td>
-                                            <td>VERY GOOD</td>
-                                        </tr>
-                                        <tr>
-                                            <td>2.</td>
-                                            <td>2023-2024</td>
-                                            <td>63</td>
-                                            <td>58</td>
-                                            <td>92%</td>
-                                            <td>VERY GOOD</td>
-                                        </tr>
-                                        <tr>
-                                            <td>3.</td>
-                                            <td>2024-2025</td>
-                                            <td>223</td>
-                                            <td>208</td>
-                                            <td>93.27%</td>
-                                            <td>VERY GOOD</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -308,7 +268,7 @@
                                         <tr>
                                             <td>2.</td>
                                             <td>TOTAL NO. OF TEACHERS</td>
-                                            <td>36<br>PGT – 15<br>TGT – 08<br>PRT – 13</td>
+                                            <td>20<br>TGT – 08<br>PRT – 12</td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
@@ -351,17 +311,17 @@
                                         <tr>
                                             <td>1.</td>
                                             <td>TOTAL CAMPUS AREA OF THE SCHOOL (IN SQUARE MTR)</td>
-                                            <td>4048</td>
+                                            <td>2098</td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
                                             <td>NO. AND SIZE OF THE CLASS ROOMS (IN SQUARE MTR)</td>
-                                            <td>36 (47 Sqr. mtr)</td>
+                                            <td>26 (47 Sqr. mtr.)</td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
                                             <td>NO. AND SIZE OF LABORATORIES INCLUDING COMPUTER LABS (IN SQUARE MTR)</td>
-                                            <td>6 (69 Sqr. mtr)</td>
+                                            <td>3 (69 Sqr. mtr)</td>
                                         </tr>
                                         <tr>
                                             <td>4.</td>
@@ -371,19 +331,19 @@
                                         <tr>
                                             <td>5.</td>
                                             <td>NO. OF GIRLS TOILET</td>
-                                            <td>19</td>
+                                            <td>12</td>
                                         </tr>
                                         <tr>
                                             <td>6.</td>
                                             <td>NO. OF BOYS TOILET</td>
-                                            <td>17</td>
+                                            <td>12</td>
                                         </tr>
                                         <tr>
                                             <td>7.</td>
                                             <td>LINK TO YOUTUBE VIDEO OF THE INSPECTION OF SCHOOL COVERING THE
                                                 INFRASTRUCTURE OF THE SCHOOL</td>
-                                            <td><a href="https://www.youtube.com/watch?v=3ItqSTGHtzc"
-                                                    target="_blank">https://www.youtube.com/watch?v=3ItqSTGHtzc</a></td>
+                                            <td><a href="https://youtu.be/kjMUu37588s"
+                                                    target="_blank">https://youtu.be/kjMUu37588s</a></td>
                                         </tr>
                                     </tbody>
                                 </table>

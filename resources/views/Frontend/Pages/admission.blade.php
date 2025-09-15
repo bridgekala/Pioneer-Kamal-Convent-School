@@ -183,9 +183,9 @@
                                         <tbody>
                                             <tr>
                                                 <td>Pre School</td>
+                                                <td>80</td>
+                                                <td>20</td>
                                                 <td>60</td>
-                                                <td>15</td>
-                                                <td>45</td>
                                             </tr>
                                         </tbody>
                                     </table>
