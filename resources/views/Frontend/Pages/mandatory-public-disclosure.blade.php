@@ -92,7 +92,7 @@
                                             <td>COPIES OF AFFILIATION/UPGRADATION LETTER AND RECENT EXTENSION OF
                                                 AFFILIATION, IF ANY</td>
                                             <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/01.04.2024 to 31.03.2029.pdf') }}">ATTACHED</a>
+                                                    href="{{ asset('assets/mpd/CBSE_2022-2027.pdf') }}">ATTACHED</a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -100,7 +100,7 @@
                                             <td>COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/ RENEWAL CERTIFICATE AS
                                                 APPLICABLE</td>
                                             <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/Reg_Certificate.pdf') }}">ATTACHED</a>
+                                                    href="{{ asset('assets/mpd/Sam_registration.pdf') }}">ATTACHED</a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -108,7 +108,7 @@
                                             <td>COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED IF APPLICABLE BY THE STATE
                                                 GOVT./UT</td>
                                             <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/Ist Recog PC.pdf') }}">ATTACHED</a>
+                                                    href="{{ asset('assets/mpd/Recognition(1 to 8).pdf') }}">ATTACHED</a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -116,7 +116,7 @@
                                             <td>COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009 AND ITS RENEWAL IF
                                                 APPLICABLE</td>
                                             <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/Recognition_2021.pdf') }}">ATTACHED</a>
+                                                    href="{{ asset('assets/mpd/Recognition(Middle to sec).pdf') }}">ATTACHED</a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -124,14 +124,14 @@
                                             <td>COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE
                                             </td>
                                             <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/Building_Stability_Certificate_2023.pdf') }}">ATTACHED</a>
+                                                    href="{{ asset('assets/mpd/Structral.pdf') }}">ATTACHED</a>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td>6.</td>
                                             <td>COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</td>
                                             <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/Fire_PC_2024.pdf') }}">ATTACHED</a>
+                                                    href="{{ asset('assets/mpd/Fire_Building_2024-2027.pdf') }}">ATTACHED</a>
                                             </td>
                                         </tr>
                                         <tr>
@@ -140,13 +140,14 @@
                                                 AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF CERTIFICATION BY
                                                 SCHOOL</td>
                                             <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/Recognition_2021.pdf') }}">ATTACHED</a>
+                                                    href="{{ asset('assets/mpd/Recognition(Middle to sec).pdf') }}">ATTACHED</a>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td>8.</td>
                                             <td>COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATE</td>
-                                            <td><a target="_blank" href="{{ asset('assets/mpd/Health.jpg') }}">ATTACHED</a>
+                                            <td><a target="_blank"
+                                                    href="{{ asset('assets/mpd/Health_Certificate_PKC.pdf') }}">ATTACHED</a>
                                             </td>
                                         </tr>
                                     </tbody>

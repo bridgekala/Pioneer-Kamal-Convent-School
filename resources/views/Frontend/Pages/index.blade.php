@@ -189,7 +189,7 @@
                 <div class="col-lg-6 col-xl-7 col-md-10 col-sm-11">
                     <div class="rts-right-section rt-relative">
                         <p class="rt-white mb--40">Welcome to Pioneer Kamal Convent School!
-                             Pioneer Kamal is among Delhi’s premier educational institutions, where we blend strong Indian
+                            Pioneer Kamal is among Delhi’s premier educational institutions, where we blend strong Indian
                             values with global learning methodologies. Our mission is to prepare young minds to be
                             innovative, compassionate, and future-ready leaders.</p>
                         <img class="round" src="{{ asset('assets/images/feature/01.jpg') }}" alt="campus images">
@@ -220,7 +220,8 @@
                     <div class="rts__section--wrapper v__7">
                         <h2 class="rts__section--title">Fee Structure at Pioneer Kamal Convent School</h2>
                         <p class="rts__section--description">
-                            At Pioneer Kamal Convent, we are committed to providing high-quality, value-based education at an
+                            At Pioneer Kamal Convent, we are committed to providing high-quality, value-based education at
+                            an
                             affordable cost. Our fee structure is designed to remain transparent and accessible, ensuring
                             every child can benefit from holistic learning.
                         </p>
@@ -232,17 +233,19 @@
                 <div class="col-lg-4 col-md-6 col-sm-10">
                     <div class="tution__single--box v__1" style="height: 700px">
                         <h5 class="tution__single--box--title">Class-Wise Fee Structure</h5>
+
                         <h6 class="tution__single--box--faculty">Pre-Primary & Primary School (Class Pre-I to V)</h6>
                         <ul class="tution__single--box--feature">
                             <li>Admission Fee (one-time): ₹200</li>
-                            <li>Monthly Tuition Fee: ₹5,570 (Pre-Primary), ₹4,380–5,240 (Class I to V)</li>
-                            <li>Annual Activity & Development Fee: ₹11,190 – ₹13,525</li>
+                            <li>Monthly Tuition Fee (T/F): ₹2,580 (Pre & Class I), ₹3,070 (Class II – V)</li>
+                            <li>Annual Activity & Development Fee: ₹4,440 – ₹4,880</li>
                         </ul>
+
                         <h6 class="tution__single--box--faculty">Middle & Secondary School (Class VI to X)</h6>
                         <ul class="tution__single--box--feature">
                             <li>Admission Fee (one-time): ₹200</li>
-                            <li>Monthly Tuition Fee: ₹5,240 (Class VI–VIII), ₹6,030 (Class IX), ₹6,630 (Class X)</li>
-                            <li>Annual Activity & Development Fee: ₹15,890</li>
+                            <li>Monthly Tuition Fee (T/F): ₹3,490 (Class VI – VIII), ₹4,460 (Class IX – X)</li>
+                            <li>Annual Activity & Development Fee: ₹6,360 (Class VI – VIII), ₹8,500 (Class IX – X)</li>
                         </ul>
                     </div>
                 </div>
@@ -250,23 +253,28 @@
                 <div class="col-lg-4 col-md-6 col-sm-10">
                     <div class="tution__single--box" style="height: 700px">
                         <h5 class="tution__single--box--title">Extra Charges & Facilities</h5>
-                        <h6 class="tution__single--box--faculty">Senior Secondary School (Class XI & XII)</h6>
+
+                        {{-- <h6 class="tution__single--box--faculty">Senior Secondary School (Class XI & XII)</h6>
                         <ul class="tution__single--box--feature">
                             <li>Science Stream: ₹7,370 per month</li>
                             <li>Commerce Stream: ₹7,370 per month</li>
                             <li>Humanities Stream: ₹7,370 per month</li>
                             <li>Laboratory & Practical Fees (Science): Included in 15% development charges</li>
-                        </ul>
+                        </ul> --}}
+
                         <h6 class="tution__single--box--faculty">Additional Fees</h6>
                         <ul class="tution__single--box--feature">
                             <li>Transport (Optional): Based on Route</li>
                             <li>Uniform & Books: As per actuals</li>
                             <li>Extracurricular Clubs & Activities: Nominal charges</li>
+                            <li>Development Charges: 15% of the fees</li>
                         </ul>
                     </div>
                 </div>
 
             </div>
+
+        </div>
         </div>
     </section>
     <!-- tution fee end -->
@@ -288,7 +296,7 @@
                                 Thriving Beyond Classrooms – Life at Pioneer
                             </h2>
                             <p class="campus__right--text--description">
-                                Step into a world of learning, creativity, and discovery. Campus life at  Pioneer Kamal is
+                                Step into a world of learning, creativity, and discovery. Campus life at Pioneer Kamal is
                                 more than just academics—it’s about nurturing talents, building friendships, and shaping
                                 character. From sports and cultural activities to clubs, workshops, and community events,
                                 every day is filled with opportunities to grow, explore, and excel.
