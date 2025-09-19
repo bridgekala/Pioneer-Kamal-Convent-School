@@ -16,7 +16,7 @@
                         <a href="mailto:contact@reacthemes.com"><i class="fa-sharp fa-light fa-location-dot"></i>
                             A Block, Pioneer Road Vikas Nagar (Vikaspuri Extension) New Delhi-110059 Delhi, India 110059
                             Delhi </a>
-                        <a href="callto:121"><i class="fa-thin fa-phone"></i> 7942676894</a>
+                        <a href="callto:9555111155"><i class="fa-thin fa-phone"></i> 9555111155</a>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="" target="_blank">
+                                <a href="https://www.instagram.com/pioneerkamalconvent?igsh=MXhoMnY2MmNwczlkYg%3D%3D&utm_source=qr" target="_blank">
                                     <img style="height: 30px" src="{{ asset('assets/images/social/instagram.svg') }}"
                                         alt="Instagram">
                                 </a>

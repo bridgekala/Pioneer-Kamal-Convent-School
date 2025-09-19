@@ -35,14 +35,7 @@
                     </p>
                 </div>
                 <h4>Recognition and Affiliation</h4>
-                <p>Pioneer Kamal Convent School is affiliated to the Central Board of Secondary Education (CBSE), Delhi,
-                    with
-                    Affiliation Number 2730606 and School Code 85345. The school is recognized under the RTE Act, 2009, and
-                    adheres to all mandatory norms, including possession of valid Fire Safety and Building Safety
-                    Certificates, DEO Certification for Affiliation, and Water, Health, and Sanitation Certificates. Our
-                    unwavering commitment to educational excellence is reflected in our consistently outstanding academic
-                    performance, achieving a 100% pass rate in Class X and over 90% success in Class XII examinations in
-                    recent academic sessions.</p>
+                <p>Pioneer Kamal Convent School is affiliated to the Central Board of Secondary Education (CBSE), Delhi, with Affiliation Number 2730422 and School Code 85351. The school is recognized under the RTE Act, 2009, and adheres to all mandatory norms, including possession of valid Fire Safety and Building Safety Certificates, DEO Certification for Affiliation, and Water, Health, and Sanitation Certificates. Our unwavering commitment to educational excellence is reflected in our consistently outstanding academic performance, achieving a 100% pass rate in Class X examinations in recent academic sessions.</p>
                 <h4>Aims and Objectives</h4>
                 <p style="margin-bottom: 100px">At Pioneer Kamal Convent, our mission is to educate young leaders equipped
                     for global citizenship. We strive to

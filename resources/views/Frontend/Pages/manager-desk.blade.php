@@ -38,7 +38,7 @@
                         <div class="member-info__details">
                             <div class="short-info">
                                 <h4 class="rts-section-title mb--15">Dr. Seema Bajaj</h4>
-                                <span class="designation">Principal, Pioneer Kamal Convent School
+                                <span class="designation">Manager, Pioneer Kamal Convent School
                                 </span>
                             </div>
                             <div class="short-info">
