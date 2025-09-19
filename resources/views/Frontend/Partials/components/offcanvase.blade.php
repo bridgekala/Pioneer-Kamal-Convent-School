@@ -122,7 +122,7 @@
         </nav>
 
         <div class="offcanvase__info--content mt--30">
-            <a href="callto:+61485826710"><span><i class="fa-sharp fa-light fa-phone"></i></span>7947128781</a>
+            <a href="callto:+61485826710"><span><i class="fa-sharp fa-light fa-phone"></i></span>9555111155</a>
             <a href="#"><span><i class="fa-sharp fa-light fa-location-dot"></i></span>A-Block, Som Bazar,
                 Pioneer Road, Vikas Nagar-110059</a>
             <div class="offcanvase__info--content--social">
