@@ -91,7 +91,7 @@
                 </div>
                 <div class="col-lg-7 col-md-11">
                     <div class="rts-multi-row-image">
-                        <img src="{{ asset('assets/images/feature/chemistry-lab.jpg') }}" alt="undergraduate education">
+                        <img src="{{ asset('assets/images/feature/audit.jpg') }}" alt="undergraduate education">
                     </div>
                 </div>
             </div>
@@ -100,27 +100,27 @@
                 class="row g-5 justify-content-center justify-content-start align-items-center">
                 <div class="col-lg-7 col-md-11">
                     <div class="rts-multi-row-image">
-                        <img src="{{ asset('assets/images/feature/sports-room.png') }}" alt="undergraduate education">
+                        <img src="{{ asset('assets/images/feature/sports-room.jpg') }}" alt="undergraduate education">
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-11">
                     <div class="rts-multi-row-content">
                         <div class="program-list">
                             <div class="single-list">
-                                <h4 class="row-title">Sports Room</h4>
-                                <p>Promoting the philosophy of ‘Sport for All’, the school encourages student participation
-                                    across skill levels.Facilities include:
+                                <h4 class="row-title">Maths Lab</h4>
+                                <p>Promoting the philosophy of ‘Learning by Doing’, the school encourages students to explore mathematical concepts through hands-on activities and experiments. The lab is equipped with:
                                 <ul>
-                                    <li>Basketball court</li>
-                                    <li>Football field</li>
-                                    <li>Cricket ground</li>
-                                    <li>Volleyball court</li>
-                                    <li>Badminton court</li>
-                                    <li>Athletics field</li>
-                                    <li>Kho-Kho ground</li>
-                                    <li>Chess arena</li>
+                                    <li>Geometrical models</li>
+                                    <li>Algebraic kits</li>
+                                    <li>Mathematical games and puzzles</li>
+                                    <li>Abacus and Vedic Maths tools</li>
+                                    <li>Measurement instruments</li>
+                                    <li>Abacus and Vedic Maths tools</li>
+                                    <li>Measurement instruments</li>
+                                    <li>Graphical aids and charts</li>
+                                    <li>Interactive software and digital resources</li>
                                 </ul>
-                                Students achieve excellence at zonal, state, and national levels.
+                                Students enhance logical thinking, problem-solving skills, and creativity while developing a strong foundation in mathematics. They participate and excel in inter-school quizzes, Olympiads, and competitions at zonal, state, and national levels.
                                 </p>
                             </div>
                         </div>
