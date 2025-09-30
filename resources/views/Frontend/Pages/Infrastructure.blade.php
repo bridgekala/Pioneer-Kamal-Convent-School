@@ -46,7 +46,7 @@
                 </div>
                 <div class="col-lg-7 col-md-11">
                     <div class="rts-multi-row-image">
-                        <img src="{{ asset('assets/images/feature/computer-lab.jpg') }}" alt="undergraduate education">
+                        <img src="{{ asset('assets/images/feature/computer.jpg') }}" alt="undergraduate education">
                     </div>
                 </div>
             </div>
