@@ -30,7 +30,7 @@
                                                 <h2 class="banner__slides--content--title">
                                                     Pioneer Kamal Convent School
                                                 </h2>
-                                                <p class="banner__slides--content--description">
+                                                <p class="banner__slides--content--description"> 
                                                     Where Excellence Meets Values
                                                 </p>
                                                 <div class="banner__slides--content--btn">
