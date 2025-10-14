@@ -160,30 +160,22 @@
                                         <tr>
                                             <td>1.</td>
                                             <td>FEE STRUCTURE OF THE SCHOOL</td>
-                                           <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/FeeTable.pdf') }}">ATTACHED</a>
-                                            </td>
+                                           <td> ATTACHED</td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
                                             <td>ANNUAL ACADEMIC CALENDAR</td>
-                                            <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/planner.jpg') }}">ATTACHED</a>
-                                            </td>
+                                            <td> ATTACHED</td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
                                             <td>LIST OF SCHOOL MANAGEMENT COMMITTEE (SMC)</td>
-                                            <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/mc-pkc.pdf') }}">ATTACHED</a>
-                                            </td>
+                                             <td> ATTACHED</td>
                                         </tr>
                                         <tr>
                                             <td>4.</td>
                                             <td>LIST OF PARENTS TEACHERS ASSOCIATION (PTA) MEMBERS</td>
-                                            <td><a target="_blank"
-                                                    href="{{ asset('assets/mpd/pkc-pta.pdf') }}">ATTACHED</a>
-                                            </td>
+                                            <td> ATTACHED</td>
                                         </tr>
                                         <tr>
                                             <td>5.</td>
