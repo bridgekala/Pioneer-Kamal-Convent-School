@@ -91,10 +91,7 @@
                                             <td>1.</td>
                                             <td>COPIES OF AFFILIATION/UPGRADATION LETTER AND RECENT EXTENSION OF
                                                 AFFILIATION, IF ANY</td>
-                                            <td>
-                                                <a href="{{ asset('documents/affiliation_letter.pdf') }}" target="_blank">ATTACHED (Affiliation)</a><br>
-                                                <a href="{{ asset('documents/upgradation_to_secondary.pdf') }}" target="_blank">ATTACHED (Upgradation)</a>
-                                            </td>
+                                            <td> <a href="{{ asset('documents/affiliation_letter.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
@@ -106,13 +103,13 @@
                                             <td>3.</td>
                                             <td>COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED IF APPLICABLE BY THE STATE
                                                 GOVT./UT</td>
-                                            <td> ATTACHED</td>
+                                            <td> <a href="{{ asset('documents/recognition_1_to_8.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>4.</td>
                                             <td>COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009 AND ITS RENEWAL IF
                                                 APPLICABLE</td>
-                                            <td> <a href="{{ asset('documents/recognition_1_to_8.pdf') }}" target="_blank">ATTACHED</a></td>
+                                            <td> <a href="{{ asset('documents/upgradation_to_secondary.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>5.</td>
