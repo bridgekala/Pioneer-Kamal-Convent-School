@@ -91,13 +91,16 @@
                                             <td>1.</td>
                                             <td>COPIES OF AFFILIATION/UPGRADATION LETTER AND RECENT EXTENSION OF
                                                 AFFILIATION, IF ANY</td>
-                                            <td> ATTACHED</td>
+                                            <td>
+                                                <a href="{{ asset('documents/affiliation_letter.pdf') }}" target="_blank">ATTACHED (Affiliation)</a><br>
+                                                <a href="{{ asset('documents/upgradation_to_secondary.pdf') }}" target="_blank">ATTACHED (Upgradation)</a>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
                                             <td>COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/ RENEWAL CERTIFICATE AS
                                                 APPLICABLE</td>
-                                            <td> ATTACHED</td>
+                                            <td> <a href="{{ asset('documents/societies_registration.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
@@ -109,30 +112,30 @@
                                             <td>4.</td>
                                             <td>COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009 AND ITS RENEWAL IF
                                                 APPLICABLE</td>
-                                            <td> ATTACHED</td>
+                                            <td> <a href="{{ asset('documents/recognition_1_to_8.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>5.</td>
                                             <td>COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE
                                             </td>
-                                            <td> ATTACHED</td>
+                                            <td> <a href="{{ asset('documents/building_safety_certificate.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>6.</td>
                                             <td>COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</td>
-                                            <td> ATTACHED</td>
+                                            <td> <a href="{{ asset('documents/fire_safety_certificate.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>7.</td>
                                             <td>COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR
                                                 AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF CERTIFICATION BY
                                                 SCHOOL</td>
-                                            <td> ATTACHED</td>
+                                            <td> <a href="{{ asset('documents/deo_certificate.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>8.</td>
                                             <td>COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATE</td>
-                                            <td> ATTACHED</td>
+                                            <td> <a href="{{ asset('documents/water_health_certificate.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -160,22 +163,22 @@
                                         <tr>
                                             <td>1.</td>
                                             <td>FEE STRUCTURE OF THE SCHOOL</td>
-                                           <td> ATTACHED</td>
+                                            <td><a href="{{ asset('documents/fee_structure.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
                                             <td>ANNUAL ACADEMIC CALENDAR</td>
-                                            <td> ATTACHED</td>
+                                            <td><a href="{{ asset('documents/academic_calendar.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
                                             <td>LIST OF SCHOOL MANAGEMENT COMMITTEE (SMC)</td>
-                                             <td> ATTACHED</td>
+                                            <td><a href="{{ asset('documents/school_managing_committee.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>4.</td>
                                             <td>LIST OF PARENTS TEACHERS ASSOCIATION (PTA) MEMBERS</td>
-                                            <td> ATTACHED</td>
+                                            <td><a href="{{ asset('documents/pta.pdf') }}" target="_blank">ATTACHED</a></td>
                                         </tr>
                                         <tr>
                                             <td>5.</td>
