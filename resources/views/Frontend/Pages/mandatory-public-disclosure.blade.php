@@ -200,14 +200,6 @@
                                     <tbody>
                                         <tr>
                                             <td>1.</td>
-                                            <td>2022-2023</td>
-                                            <td>37</td>
-                                            <td>37</td>
-                                            <td>100%</td>
-                                            <td>EXCELLENT</td>
-                                        </tr>
-                                        <tr>
-                                            <td>2.</td>
                                             <td>2023-2024</td>
                                             <td>39</td>
                                             <td>39</td>
@@ -215,10 +207,18 @@
                                             <td>EXCELLENT</td>
                                         </tr>
                                         <tr>
-                                            <td>3.</td>
+                                            <td>2.</td>
                                             <td>2024-2025</td>
                                             <td>42</td>
                                             <td>42</td>
+                                            <td>100%</td>
+                                            <td>EXCELLENT</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3.</td>
+                                            <td>2025-2026</td>
+                                            <td>45</td>
+                                            <td>45</td>
                                             <td>100%</td>
                                             <td>EXCELLENT</td>
                                         </tr>
@@ -241,7 +241,8 @@
                                         <tr>
                                             <td>S. NO.</td>
                                             <td>INFORMATION</td>
-                                            <td>DETAILS</td>
+                                            <td>NUMBER/STRENGTH</td>
+                                            <td>NAME AND QUALIFICATIONS</td>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -249,26 +250,58 @@
                                             <td>1.</td>
                                             <td>PRINCIPAL</td>
                                             <td>1</td>
+                                            <td>Ms. Mallika Bajaj (M.Tech, B.Ed)</td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
-                                            <td>TOTAL NO. OF TEACHERS</td>
-                                            <td>20<br>TGT – 08<br>PRT – 12</td>
+                                            <td>VICE PRINCIPAL</td>
+                                            <td>NA</td>
+                                            <td>NA</td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
-                                            <td>TEACHERS SECTION RATIO</td>
-                                            <td>1.5:1</td>
+                                            <td>HEADMISTRESS / HEADMASTER</td>
+                                            <td>NA</td>
+                                            <td>NA</td>
                                         </tr>
                                         <tr>
-                                            <td>4.</td>
-                                            <td>DETAILS OF SPECIAL EDUCATOR</td>
-                                            <td>1</td>
+                                            <td rowspan="4">4.</td>
+                                            <td>TOTAL NO. OF TEACHERS</td>
+                                            <td></td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td>&bull; PGT</td>
+                                            <td>NA</td>
+                                            <td>NA</td>
+                                        </tr>
+                                        <tr>
+                                            <td>&bull; TGT</td>
+                                            <td>14</td>
+                                            <td><a href="{{ asset('documents/TGT.pdf') }}" target="_blank">Link</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td>&bull; PRT</td>
+                                            <td>10</td>
+                                            <td><a href="{{ asset('documents/PRT.pdf') }}" target="_blank">Link</a></td>
                                         </tr>
                                         <tr>
                                             <td>5.</td>
+                                            <td>TEACHERS SECTION RATIO</td>
+                                            <td>1.5:1</td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td>6.</td>
+                                            <td>DETAILS OF SPECIAL EDUCATOR</td>
+                                            <td>1</td>
+                                            <td>Ms. Diksha Ahlawat (B.A., D.Ed., Spl. Education)</td>
+                                        </tr>
+                                        <tr>
+                                            <td>7.</td>
                                             <td>DETAILS OF COUNSELLOR AND WELLNESS TEACHER</td>
                                             <td>1</td>
+                                            <td>Mrs. Neelam Gera (M.A. Psychology)</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -295,40 +328,48 @@
                                     <tbody>
                                         <tr>
                                             <td>1.</td>
-                                            <td>TOTAL CAMPUS AREA OF THE SCHOOL (IN SQUARE MTR)</td>
+                                            <td>TOTAL CAMPUS AREA OF THE SCHOOL (IN SQR MTR)</td>
                                             <td>2098</td>
                                         </tr>
                                         <tr>
                                             <td>2.</td>
-                                            <td>NO. AND SIZE OF THE CLASS ROOMS (IN SQUARE MTR)</td>
-                                            <td>26 (47 Sqr. mtr.)</td>
+                                            <td>NO. AND SIZE OF THE CLASS ROOMS (IN SQR MTR)</td>
+                                            <td>37 (47 Sqr. mtr.)</td>
                                         </tr>
                                         <tr>
                                             <td>3.</td>
-                                            <td>NO. AND SIZE OF LABORATORIES INCLUDING COMPUTER LABS (IN SQUARE MTR)</td>
+                                            <td>NO. AND SIZE OF LABORATORIES INCLUDING COMPUTER LABS (IN SQR MTR)</td>
                                             <td>3 (69 Sqr. mtr)</td>
                                         </tr>
                                         <tr>
                                             <td>4.</td>
+                                            <td>NO. AND SIZE OF LIBRARY (IN SQR MTR)</td>
+                                            <td>113 Sqr. Mtr.</td>
+                                        </tr>
+                                        <tr>
+                                            <td>5.</td>
                                             <td>INTERNET FACILITY (Y/N)</td>
                                             <td>YES</td>
                                         </tr>
                                         <tr>
-                                            <td>5.</td>
-                                            <td>NO. OF GIRLS TOILET</td>
-                                            <td>12</td>
-                                        </tr>
-                                        <tr>
                                             <td>6.</td>
-                                            <td>NO. OF BOYS TOILET</td>
-                                            <td>12</td>
+                                            <td>NO. OF GIRLS TOILET</td>
+                                            <td>15</td>
                                         </tr>
                                         <tr>
                                             <td>7.</td>
-                                            <td>LINK TO YOUTUBE VIDEO OF THE INSPECTION OF SCHOOL COVERING THE
-                                                INFRASTRUCTURE OF THE SCHOOL</td>
-                                            <td><a href="https://youtu.be/kjMUu37588s"
-                                                    target="_blank">https://youtu.be/kjMUu37588s</a></td>
+                                            <td>NO. OF BOYS TOILET</td>
+                                            <td>15</td>
+                                        </tr>
+                                        <tr>
+                                            <td>8.</td>
+                                            <td>NO. OF CWSN TOILETS</td>
+                                            <td>02</td>
+                                        </tr>
+                                        <tr>
+                                            <td>9.</td>
+                                            <td>LINK TO YOUTUBE VIDEO OF THE INSPECTION OF SCHOOL COVERING THE INFRASTRUCTURE OF THE SCHOOL</td>
+                                            <td><a href="https://youtu.be/kjMUu37588s" target="_blank">https://youtu.be/kjMUu37588s</a></td>
                                         </tr>
                                     </tbody>
                                 </table>
