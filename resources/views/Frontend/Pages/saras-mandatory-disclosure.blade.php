@@ -12,8 +12,8 @@
             <div class="row justify-content-center">
                 <div class="col-sm-12">
                     <div class="rts__section--wrapper v__9">
-                        <h3 class="rts__section--title">Content coming soon! This section is being updated to serve you
-                            better.</h3>
+                        <h3 class="rts__section--title mb-4">SARAS Mandatory Disclosure</h3>
+                        <a href="{{ asset('documents/Mandatory Disclosure Details _ SARAS 7.0.pdf') }}" target="_blank" class="rts-theme-btn btn-arrow">View SARAS Document<span><i class="fa-regular fa-arrow-right"></i></span></a>
                     </div>
                 </div>
             </div>
